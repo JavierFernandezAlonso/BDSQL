@@ -28,4 +28,4 @@ descripcion TEXT
 - Mejora de relaciones <br>
 Creación de llaves foráneas para la implementación de las relaciones entre tablas. 
 ## 6. Conclusión personal 📌
-La base de datos está correctamente desarrollada, pero está incompleta. Falta establecer las relaciones entre tablas, incluir tablas fundamentales como productos y ventas, además de extender los campos de las tablas ya creadas. 
+La base de datos está correctamente desarrollada, pero está incompleta. Hay que establecer las relaciones entre tablas e incluir tablas fundamentales como productos y ventas, además de extender los campos de las tablas ya creadas. 
